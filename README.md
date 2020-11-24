@@ -1,0 +1,2 @@
+# coredns
+ws-coredns
